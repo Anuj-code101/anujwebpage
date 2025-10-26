@@ -1,0 +1,22 @@
+h1 {
+    background: #000;
+    color: green;
+    font-size: medium;
+    font-style: italic;
+    text-align: center;
+    padding: 0%;
+}
+h2 {
+    background: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+    font-size: xx-large;
+    text-decoration: underline;
+    
+
+}
+
+
